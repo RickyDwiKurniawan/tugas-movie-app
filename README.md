@@ -2,7 +2,6 @@
 
 # Tujuan
 Mengimplementasikan hasil learning dan menyelesaikan tugas akhir FGA Mobile development 
-Menyelesaikan
 # Fitur
 Home: Menampilkan daftar film
 Search: Memungkinkan pengguna untuk mencari film
