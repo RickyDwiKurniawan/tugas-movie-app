@@ -12,9 +12,13 @@ Spesifikasi
 MovieDetail
 # Modul yang digunakan
 react-native
+
 expo-linear-gradient
+
 @react-navigation/bottom-tabs
+
 react-native-gesture-handler
+
 @react-navigation/native-stack
 
 
