@@ -4,12 +4,13 @@
 Mengimplementasikan hasil learning dan menyelesaikan tugas akhir FGA Mobile development 
 # Fitur
 Home: Menampilkan daftar film
+
 Search: Memungkinkan pengguna untuk mencari film
+
 Favorite: Menyimpan daftar film favorit pengguna.
+
 Detail Film: Menampilkan informasi detail tentang film yang dipilih.
-Spesifikasi
-# Spesifikasi
-MovieDetail
+
 # Modul yang digunakan
 react-native
 
