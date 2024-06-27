@@ -1,7 +1,7 @@
 # tugas-movie-app
-adalah repositori tugas fga
+
 # Tujuan
-Mengimplementasikan hasil learning FGA Mobile development
+Mengimplementasikan hasil learning dan menyelesaikan tugas akhir FGA Mobile development 
 Menyelesaikan
 # Fitur
 Home: Menampilkan daftar film
