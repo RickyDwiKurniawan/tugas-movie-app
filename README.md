@@ -3,7 +3,7 @@
 # Tujuan
 Mengimplementasikan hasil learning dan menyelesaikan tugas akhir FGA Mobile development 
 # Kendala yang dihadapi
-keadaan saya yang burnout dan mental yang down 
+Keadaan saya yang burnout, mental yang down dll 
 # Fitur
 Home: Menampilkan daftar film
 
