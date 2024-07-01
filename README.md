@@ -2,6 +2,8 @@
 
 # Tujuan
 Mengimplementasikan hasil learning dan menyelesaikan tugas akhir FGA Mobile development 
+# Kendala yang dihadapi
+keadaan saya yang burnout dan mental yang down 
 # Fitur
 Home: Menampilkan daftar film
 
@@ -22,9 +24,6 @@ react-native-gesture-handler
 
 @react-navigation/native-stack
 
-# Kendala yang dihadapi
-error pada navigationcontainer
-
-keadaan saya yang burnout dan mental yang down  
+ 
 
 
