@@ -22,4 +22,9 @@ react-native-gesture-handler
 
 @react-navigation/native-stack
 
+# Kendala yang dihadapi
+error pada navigationcontainer
+
+keadaan saya yang burnout dan mental yang down  
+
 
